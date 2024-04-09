@@ -9,4 +9,4 @@ class Topic(models.Model):
         """Devolve uma representação em string do modelo"""
         return self.text
 
-    
+
